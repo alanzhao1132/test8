@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08802FDC1C80991F00FED467 /* File11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08802FDB1C80991F00FED467 /* File11.swift */; };
 		08C8869E1C80878B0074A472 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C8869D1C80878B0074A472 /* AppDelegate.swift */; };
 		08C886A01C80878B0074A472 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C8869F1C80878B0074A472 /* ViewController.swift */; };
 		08C886A31C80878B0074A472 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08C886A11C80878B0074A472 /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		08802FDB1C80991F00FED467 /* File11.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File11.swift; sourceTree = "<group>"; };
 		08C8869A1C80878B0074A472 /* test8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test8.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08C8869D1C80878B0074A472 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		08C8869F1C80878B0074A472 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				08C886A91C80878B0074A472 /* Info.plist */,
 				08C886CB1C808A240074A472 /* File.swift */,
 				08C886CF1C808E5C0074A472 /* File4.swift */,
+				08802FDB1C80991F00FED467 /* File11.swift */,
 				08C886D11C808EAA0074A472 /* File5.swift */,
 			);
 			path = test8;
@@ -268,6 +271,7 @@
 				08C886A01C80878B0074A472 /* ViewController.swift in Sources */,
 				08C886CC1C808A240074A472 /* File.swift in Sources */,
 				08C886D21C808EAA0074A472 /* File5.swift in Sources */,
+				08802FDC1C80991F00FED467 /* File11.swift in Sources */,
 				08C886D01C808E5C0074A472 /* File4.swift in Sources */,
 				08C8869E1C80878B0074A472 /* AppDelegate.swift in Sources */,
 			);
