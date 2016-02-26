@@ -14,6 +14,7 @@
 		08C886A81C80878B0074A472 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08C886A61C80878B0074A472 /* LaunchScreen.storyboard */; };
 		08C886B31C80878B0074A472 /* test8Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C886B21C80878B0074A472 /* test8Tests.swift */; };
 		08C886BE1C80878B0074A472 /* test8UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C886BD1C80878B0074A472 /* test8UITests.swift */; };
+		08C886CC1C808A240074A472 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C886CB1C808A240074A472 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		08C886B91C80878B0074A472 /* test8UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test8UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		08C886BD1C80878B0074A472 /* test8UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test8UITests.swift; sourceTree = "<group>"; };
 		08C886BF1C80878B0074A472 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08C886CB1C808A240074A472 /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				08C886A41C80878B0074A472 /* Assets.xcassets */,
 				08C886A61C80878B0074A472 /* LaunchScreen.storyboard */,
 				08C886A91C80878B0074A472 /* Info.plist */,
+				08C886CB1C808A240074A472 /* File.swift */,
 			);
 			path = test8;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				08C886A01C80878B0074A472 /* ViewController.swift in Sources */,
+				08C886CC1C808A240074A472 /* File.swift in Sources */,
 				08C8869E1C80878B0074A472 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -480,6 +484,7 @@
 				08C886C41C80878B0074A472 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		08C886C51C80878B0074A472 /* Build configuration list for PBXNativeTarget "test8Tests" */ = {
 			isa = XCConfigurationList;
@@ -488,6 +493,7 @@
 				08C886C71C80878B0074A472 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		08C886C81C80878B0074A472 /* Build configuration list for PBXNativeTarget "test8UITests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +502,7 @@
 				08C886CA1C80878B0074A472 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
