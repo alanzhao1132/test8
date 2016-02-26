@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08802FDE1C8099E600FED467 /* File12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08802FDD1C8099E600FED467 /* File12.swift */; };
 		08C8869E1C80878B0074A472 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C8869D1C80878B0074A472 /* AppDelegate.swift */; };
 		08C886A01C80878B0074A472 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C8869F1C80878B0074A472 /* ViewController.swift */; };
 		08C886A31C80878B0074A472 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08C886A11C80878B0074A472 /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		08802FDD1C8099E600FED467 /* File12.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File12.swift; sourceTree = "<group>"; };
 		08C8869A1C80878B0074A472 /* test8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test8.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08C8869D1C80878B0074A472 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		08C8869F1C80878B0074A472 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 		08C886911C80878B0074A472 = {
 			isa = PBXGroup;
 			children = (
+				08802FDD1C8099E600FED467 /* File12.swift */,
 				08C8869C1C80878B0074A472 /* test8 */,
 				08C886B11C80878B0074A472 /* test8Tests */,
 				08C886BC1C80878B0074A472 /* test8UITests */,
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08802FDE1C8099E600FED467 /* File12.swift in Sources */,
 				08C886D41C808F320074A472 /* File8.swift in Sources */,
 				08C886A01C80878B0074A472 /* ViewController.swift in Sources */,
 				08C886CC1C808A240074A472 /* File.swift in Sources */,
